@@ -39,9 +39,7 @@ I’m focused on **Frontend Development** right now — React, Tailwind, and rea
 ---
 
 ## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/man-khoanh-nho/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ngomanhhoang)
-[![Mail](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manhhoangf1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/man-khoanh-nho/)[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/ngomanhhoang)[![Mail](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manhhoangf1@gmail.com)
 
 ---
 
