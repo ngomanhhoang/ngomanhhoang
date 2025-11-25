@@ -28,7 +28,6 @@ I’m focused on **Frontend Development** right now — React, Tailwind, and rea
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ngomanhhoang&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngomanhhoang&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
